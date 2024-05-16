@@ -2,7 +2,7 @@ public class Reduce {
 
     public static void main(String[] args) {
 
-        int intToReduce = 9;
+        int intToReduce = 100;
         String binaryInt = Integer.toBinaryString(intToReduce);
 
         int totalSteps = -1;
