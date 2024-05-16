@@ -21,6 +21,7 @@ class FizzBuzz {
         boolean divisibleBy5 = i % 5 == 0;
 
         // Print our appropriate result.
+        // Easter egg here yay!!!!
         if (divisibleBy3 && divisibleBy5) {
 
             System.out.println("Fizz Buzz");
